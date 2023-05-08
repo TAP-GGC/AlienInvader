@@ -23,11 +23,11 @@ Advisors: Dr. Xin Xu and Dr. Wei Jin
 
 [Paper](https://github.com/Pryzzm/TAPSpaceInvaders/blob/main/Tap%20Documents/Introducing%20Java%20Programming%20Concepts%20through%20Making%20a%20Retro-style%20Game.docx)
 
-CREATE Symposium Poster, Nov. 21, 2019, GGC.
+CREATE Symposium, Apr. 25, 2023, GGC.
 
-Super Saturday Series (S3), Nov 9, GGC – middle and high school girls to promote IT and STEM career
+Atlanta Science Festival - Mar 25 2023
 
-Tap Expo, Oct 10, GGC – To promote IT field and the TAP program to college students
+Tap Expo, Mar 21, GGC – To promote IT field and the TAP program to college students
 
 Class Workshops – on 4/10 and two on 4/13, to promote IT field to non-IT college students.
 
