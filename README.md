@@ -30,7 +30,7 @@ In this project, we created a simple version of Space Invaders using Processing.
 * Advisor: Dr. Xin Xu
 * Advisor: Dr. Wei Jin
 
-![Team!]()
+<img src = "Media/Group Photo.ipg" width="400" height="200">
 Note: (from left to right) Jaehyun Na, Haniel Villarreal, Natalie Haney, and Ryan Young. 
 
 ## Publications 
