@@ -24,9 +24,11 @@ In this project, we created a simple version of Space Invaders using Processing.
 * Advisor: Dr. Wei Jin
 
 ![Team!](https://github.com/Pryzzm/TAPSpaceInvaders/blob/main/Tap%20Media/Create.jpg)
+Note: (from left to right) Jaehyun Na, Haniel Villarreal, Natalie Haney, and Ryan Young. 
 
 ## Publications 
-1. Ryan Young, Natalie Haney, Haniel Villarreal, Jaehyun Na, Wei Jin, Xin Xu. "Introducing Java Programming Concepts through Making a Retro-style Game", 
+1. Ryan Young, Natalie Haney, Haniel Villarreal, Jaehyun Na, Wei Jin, Xin Xu. "Introducing Java Programming Concepts through Making a Retro-style Game",
+
 [Paper](https://github.com/Pryzzm/TAPSpaceInvaders/blob/main/Tap%20Documents/Introducing%20Java%20Programming%20Concepts%20through%20Making%20a%20Retro-style%20Game.docx)
 
 ## Outreach Activities
@@ -38,14 +40,17 @@ In this project, we created a simple version of Space Invaders using Processing.
 ## Technology
 This project uses Processing and Tableau. 
 ### 1. Processing
-
-Processing for the game, Tableau for survey data analysis
-[Processing](https://processing.org/) is a Java sketchbook, [Tableau](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_language=EN&utm_country=USCA&kw=tableau&adgroup=CTX-Brand-Priority-Core-E&adused=ETA&matchtype=e&placement=&d=7013y000000vYhH&cq_cmp=370186750&cq_net=s&cq_plac=&msclkid=26981524b0631c5b97b6717da3aecb8f&gclsrc=ds&gclsrc=ds) is a Business Intelligence tool
+[Processing](https://processing.org/) is an IDE (Intergrated Development Environment) for an open-source programming language built on top of Java with the same name. Processing is an electronic sketchbook used by students, artists, designers, programmers, and other professionals to create computer graphics, digital arts, and visual designs. 
 
 ### 2. Tableau 
+[Tableau](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_language=EN&utm_country=USCA&kw=tableau&adgroup=CTX-Brand-Priority-Core-E&adused=ETA&matchtype=e&placement=&d=7013y000000vYhH&cq_cmp=370186750&cq_net=s&cq_plac=&msclkid=26981524b0631c5b97b6717da3aecb8f&gclsrc=ds&gclsrc=ds) is a Business Intelligence tool used for survey data analysis. 
 
 ## Project Setup/Installation
-With Processing installed:
+### Download Processing
+1. Use the following link to install Processing on a computer: https://processing.org/download
+2. Go to your download folder and extract the ZIP file
+3. Run the processing.exe application 
+### With Processing installed:
 1. Dowload the repository as a ZIP
 2. Extract is to your desired location
 3. Open the code folder
@@ -55,4 +60,4 @@ With Processing installed:
 
 ## Short Demo Instructions
 
-## Workshop Instruction 
+## Workshop Instructions 
