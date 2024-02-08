@@ -15,7 +15,9 @@ In this project, we created a simple version of Space Invaders using Processing.
 
 [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program): A class focused on IT Outreach and collaborative projects.
 
-[Project Demo](
+[Project Demo](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/aea33800-2b25-4599-8487-800cdf44d621)
+
+
 ## Team
 * Ryan Young
 * Natalie Haney
