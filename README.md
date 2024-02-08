@@ -13,7 +13,7 @@ Learning Outcomes:
 This project, done in the Georgia Gwinnet College TAP (Technology Ambassadors program), was created in an effort to help drive students towards programming and increase general interest in the field.
 In this project, we created a simple version of Space Invaders using Processing. We then taught a workshop on some basic programming concepts within processing to show what simple buildibg blocks we used to end up with our game. This effectively helped show that programming was not as hard as it seemed.
 
-[TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program): A class focused on IT Outreach and collaborative projects.
+[TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) provides a collaborative environment that encourages IT students to think outside of the box and work together to develop projects and workshops to showcase the creative side of technology. 
 
 [Project Demo](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/aea33800-2b25-4599-8487-800cdf44d621)
 
