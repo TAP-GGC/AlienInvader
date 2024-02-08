@@ -13,7 +13,7 @@ Learning Outcomes:
 This project, done in the Georgia Gwinnet College TAP (Technology Ambassadors program), was created in an effort to help drive students towards programming and increase general interest in the field.
 In this project, we created a simple version of Space Invaders using Processing. We then taught a workshop on some basic programming concepts within processing to show what simple buildibg blocks we used to end up with our game. This effectively helped show that programming was not as hard as it seemed.
 
-[TAP Website ](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) The Technology Ambassadors Program is a class focused on IT Outreach and collaborative projects.
+[TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program): A class focused on IT Outreach and collaborative projects.
 
 ## Team
 * Ryan Young
@@ -26,6 +26,7 @@ In this project, we created a simple version of Space Invaders using Processing.
 ![Team!](https://github.com/Pryzzm/TAPSpaceInvaders/blob/main/Tap%20Media/Create.jpg)
 
 ## Publications 
+1. Ryan Young, Natalie Haney, Haniel Villarreal, Jaehyun Na, Wei Jin, Xin Xu. "Introducing Java Programming Concepts through Making a Retro-style Game", 
 [Paper](https://github.com/Pryzzm/TAPSpaceInvaders/blob/main/Tap%20Documents/Introducing%20Java%20Programming%20Concepts%20through%20Making%20a%20Retro-style%20Game.docx)
 
 ## Outreach Activities
