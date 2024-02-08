@@ -2,15 +2,19 @@
 ## Description
 Difficulty Level:
 
-Target Audience: 
+Target Audience: students of all ages 
 
 Duration of Workshop:
 
 Needed Materials: 
 
 Learning Outcomes: 
+1. Having a basic understanding of the fundamental programming concepts in Java such as loops, if else statements, and object-oriented programming that could also be applied to other languages. 
+2. Familiarizing students with the rudimentary keywords and functions in Processing and learning to manipulate elementary mathematical functions to create geometric shapes and visual designs. 
+3. Encouraging students to pursuit STEM majors.
 
-This project, done in the Georgia Gwinnet College TAP (Technology Ambassadors program), was created in an effort to help drive students towards programming and increase general interest in the field.
+This TAP project is our take on the classic game Space Invaders. Using Processing, we are able to develop a multiplayer retro style arcade game with the inspiration from the Japanese 1978 fixed shooter video game. It's a fun and simple game created in an effort to help drive students towards programming and increase general interest in the field. The game allows up to two players who can compete against each other 
+
 In this project, we created a simple version of Space Invaders using Processing. We then taught a workshop on some basic programming concepts within processing to show what simple buildibg blocks we used to end up with our game. This effectively helped show that programming was not as hard as it seemed.
 
 [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) provides a collaborative environment that encourages IT students to think outside of the box and work together to develop projects and workshops to showcase the creative side of technology. 
