@@ -21,6 +21,10 @@ We then taught a workshop on some basic programming concepts within processing t
 Project Demo: 
 <img src = "https://github.com/TAP-GGC/AlienInvader2/assets/157164928/0081aec4-11cf-46c7-bd8c-f513b4b96aab">
 
+OR: 
+
+[Project Demo](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/0081aec4-11cf-46c7-bd8c-f513b4b96aab)
+
 
 
 
