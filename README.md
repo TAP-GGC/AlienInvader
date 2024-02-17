@@ -19,7 +19,7 @@ We then taught a workshop on some basic programming concepts within processing t
 
 [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) provides a collaborative environment that encourages IT students to think outside of the box and work together to develop projects and workshops to showcase the creative side of technology. 
 
-[Project Demo](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/0c26fb85-acfd-489b-acef-29f822c3a18b)
+[Project Demo]("Media/Project_Demo.mp4")
 
 ## Team
 * Ryan Young
