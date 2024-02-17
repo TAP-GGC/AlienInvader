@@ -22,10 +22,17 @@ We then taught a workshop on some basic programming concepts within processing t
 [Project Demo](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/0c26fb85-acfd-489b-acef-29f822c3a18b)
 
 ## Team
+* Ryan Young
+* Natalie Haney
+* Haniel Villarreal
+* Jaehyun Na
+  
+### Advisors
+* Dr. Wei jin
+* Dr. Xin Xu 
 
 <img src = "Media/Group Photo.jpg" width="400" height="200">
 (From left to right: Jaehyun Na, Haniel Villarreal, Natalie Haney, and Ryan Young.) <br>
-Advisors: Dr. Wei Jin and Dr. Xin Xu
 
 ## Publications 
 1. Ryan Young, Natalie Haney, Haniel Villarreal, Jaehyun Na, Wei Jin, Xin Xu. "Introducing Java Programming Concepts through Making a Retro-style Game",
