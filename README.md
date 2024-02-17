@@ -14,27 +14,18 @@ Learning Outcomes:
 2. Familiarizing students with the rudimentary keywords and functions in Processing and learning to manipulate elementary mathematical functions to create geometric shapes and visual designs. 
 3. Encouraging students to pursuit STEM majors.
 
-This TAP project is our take on the classic game Space Invaders. Using Processing, we are able to develop a multiplayer retro style arcade game with the inspiration from the Japanese 1978 fixed shooter video game. It's a fun and simple game created in an effort to help drive students towards programming and increase general interest in the field. The game allows up to two players who can compete against each other 
-
-In this project, we created a simple version of Space Invaders using Processing. We then taught a workshop on some basic programming concepts within processing to show what simple buildibg blocks we used to end up with our game. This effectively helped show that programming was not as hard as it seemed.
+This TAP project is our take on the classic game Space Invaders. Using Processing, we are able to develop a multiplayer retro style arcade game with the inspiration from the Japanese 1978 fixed shooter video game. It's a fun and simple game created in an effort to help drive students towards programming and increase general interest in the field. The game allows up to two players who can compete against each other. 
+We then taught a workshop on some basic programming concepts within processing to show what simple buildibg blocks we used to end up with our game. 
 
 [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) provides a collaborative environment that encourages IT students to think outside of the box and work together to develop projects and workshops to showcase the creative side of technology. 
 
 [Project Demo](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/0c26fb85-acfd-489b-acef-29f822c3a18b)
 
-
-
-
 ## Team
-* Ryan Young
-* Natalie Haney
-* Haniel Villarreal
-* Jaehyun Na
-* Advisor: Dr. Xin Xu
-* Advisor: Dr. Wei Jin
 
 <img src = "Media/Group Photo.jpg" width="400" height="200">
-Note: (from left to right) Jaehyun Na, Haniel Villarreal, Natalie Haney, and Ryan Young. 
+(From left to right: Jaehyun Na, Haniel Villarreal, Natalie Haney, and Ryan Young.) <br>
+Advisors: Dr. Wei Jin and Dr. Xin Xu
 
 ## Publications 
 1. Ryan Young, Natalie Haney, Haniel Villarreal, Jaehyun Na, Wei Jin, Xin Xu. "Introducing Java Programming Concepts through Making a Retro-style Game",
@@ -53,7 +44,7 @@ This project uses Processing and Tableau.
 [Processing](https://processing.org/) is an IDE (Intergrated Development Environment) for an open-source programming language built on top of Java with the same name. Processing is an electronic sketchbook used by students, artists, designers, programmers, and other professionals to create computer graphics, digital arts, and visual designs. 
 
 ### 2. Tableau 
-[Tableau](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_language=EN&utm_country=USCA&kw=tableau&adgroup=CTX-Brand-Priority-Core-E&adused=ETA&matchtype=e&placement=&d=7013y000000vYhH&cq_cmp=370186750&cq_net=s&cq_plac=&msclkid=26981524b0631c5b97b6717da3aecb8f&gclsrc=ds&gclsrc=ds) is a Business Intelligence tool used for survey data analysis. 
+[Tableau](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_language=EN&utm_country=USCA&kw=tableau&adgroup=CTX-Brand-Priority-Core-E&adused=ETA&matchtype=e&placement=&d=7013y000000vYhH&cq_cmp=370186750&cq_net=s&cq_plac=&msclkid=26981524b0631c5b97b6717da3aecb8f&gclsrc=ds&gclsrc=ds) is a Business Intelligence tool used for survey data analysis. The pre-survey and post-survey are created using Tableau. 
 
 ## Project Setup/Installation
 ### Download Processing
