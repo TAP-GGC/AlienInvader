@@ -1,3 +1,5 @@
+
+https://github.com/TAP-GGC/AlienInvader2/assets/157164928/0c26fb85-acfd-489b-acef-29f822c3a18b
 # Introducing Java Programming Concepts through Making a Retro-style Game
 ## Description
 Difficulty Level:
@@ -20,6 +22,10 @@ In this project, we created a simple version of Space Invaders using Processing.
 [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) provides a collaborative environment that encourages IT students to think outside of the box and work together to develop projects and workshops to showcase the creative side of technology. 
 
 [Project Demo](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/aea33800-2b25-4599-8487-800cdf44d621)
+
+[Project Demo](Uploading Project_Demo.mp4…)
+
+
 
 
 ## Team
