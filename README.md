@@ -63,7 +63,7 @@ This project uses Processing and Tableau.
 ### 2. Tableau 
 [Tableau](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_language=EN&utm_country=USCA&kw=tableau&adgroup=CTX-Brand-Priority-Core-E&adused=ETA&matchtype=e&placement=&d=7013y000000vYhH&cq_cmp=370186750&cq_net=s&cq_plac=&msclkid=26981524b0631c5b97b6717da3aecb8f&gclsrc=ds&gclsrc=ds) is a Business Intelligence tool used for survey data analysis. The pre-survey and post-survey are created using Tableau. 
 
-<img src = "Media/Tableau.png" width="200" height="200">
+<img src = "Media/tableau.png" width="200" height="200">
 
 ## Project Setup/Installation
 ### Download Processing
