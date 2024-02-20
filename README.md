@@ -1,12 +1,12 @@
 # Introducing Java Programming Concepts through Making a Retro-style Game
 ## Description
-Difficulty Level:
+Difficulty Level: Medium 
 
 Target Audience: students of all ages 
 
-Duration of Workshop:
+Duration of Workshop: 75-105 minutes 
 
-Needed Materials: 
+Needed Materials: Regular devices with keyboard. 
 
 Learning Outcomes: 
 1. Having a basic understanding of the fundamental programming concepts in Java such as loops, if else statements, and object-oriented programming that could also be applied to other languages. 
