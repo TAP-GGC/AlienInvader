@@ -13,8 +13,8 @@ Learning Outcomes:
 2. Familiarizing students with the rudimentary keywords and functions in Processing and learning to manipulate elementary mathematical functions to create geometric shapes and visual designs. 
 3. Encouraging students to pursuit STEM majors.
 
-This TAP project is our take on the classic game Space Invaders. Using Processing, we are able to develop a multiplayer retro style arcade game with the inspiration from the Japanese 1978 fixed shooter video game. It's a fun and simple game created in an effort to help drive students towards programming and increase general interest in the field. The game allows up to two players who can compete against each other. 
-We then taught a workshop on some basic programming concepts within processing to show what simple buildibg blocks we used to end up with our game. 
+This TAP project is our take on the classic game Space Invaders. Using Processing, we are able to develop a multiplayer retro style arcade game with the inspiration from the Japanese 1978 fixed shooter video game. It's a fun and simple game created in an effort to help drive students towards programming and increase general interest in the field. The game allows up to two players who can compete against each other. One player could use the arrow keys to maneuver their spaceship. Another player could use the W A S D keys. 
+We also planned and led several workshops to teach students about some fundamental programming concepts and basic Procesing functions that we used to create our our game. 
 
 [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) provides a collaborative environment that encourages IT students to think outside of the box and work together to develop projects and workshops to showcase the creative side of technology. 
 
