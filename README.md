@@ -79,7 +79,7 @@ This project uses Processing and Tableau.
 3. Run the processing.exe application 
 ### With Processing installed:
 1. Dowload the repository as a ZIP
-2. Extract is to your desired location
+2. Extract it to your desired location
 3. Open the code folder
 4. Open the .pde file
 5. Click the play button in the top left
