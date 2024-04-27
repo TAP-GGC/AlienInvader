@@ -2,6 +2,7 @@
 
 int x = 250, y=250; 
 boolean leftPressed, rightPressed; 
+boolean upPressed, downPressed; 
 
 void setup()
 {
@@ -21,6 +22,12 @@ void draw()
   if (rightPressed && x<=420){
     x=x+10; 
   }
+  if (upPressed && y>=30){
+    y=y-10; 
+  }
+  if (downPressed && y<=420){
+    y=y+10; 
+  }
   
 }
 
@@ -33,6 +40,14 @@ void keyPressed()
   if (keyCode == RIGHT){
     rightPressed = true; 
   }
+  
+  if (keyCode == UP){
+    upPressed = true; 
+  }
+  
+  if (keyCode == DOWN){
+    downPressed = true; 
+  }
 }
 
 void keyReleased()
@@ -43,5 +58,13 @@ void keyReleased()
   
   if (keyCode == RIGHT){
     rightPressed = false; 
+  }
+  
+  if (keyCode == UP){
+    upPressed = false; 
+  }
+  
+  if (keyCode == DOWN){
+    downPressed = false; 
   }
 }
