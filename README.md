@@ -29,7 +29,7 @@ This project was created in an effort to increase interest and participation in 
 
 ## Team Photo
 
-<img src = "Media/Group Photo.png" width="400" height="200">
+<img src = "Media/Team Photo/STARS_Symposium.png" width="400" height="200">
 (From left to right: Jaehyun Na, Haniel Villarreal, Natalie Haney, and Ryan Young.) <br>
 
 ## Game Description 
