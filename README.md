@@ -68,10 +68,10 @@ The game allows up to two players who can compete against each other. One player
 
 
 ## Short Demo Instructions
-[Click here to view demo video]()
+[Click here to view demo video](put link here)
 
 ## Workshop Instructions 
-[Click here to view workshop video]()
+[Click here to view workshop video](put link here)
 
 ## Usage
 1. Left click to start the game. 
