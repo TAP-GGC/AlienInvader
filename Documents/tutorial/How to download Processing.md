@@ -8,4 +8,4 @@
 
 3. Run the processing.exe application. The first time you run Processing on your device, you must run as administrator.
 
-<img src="/Media/Run%20Processing.gif/" width="500" height="300">
+<img src="/Media/Run%20Processing.gif/" width="400" height="200">
