@@ -1,5 +1,6 @@
 # Introducing Java Programming Concepts through Making a Retro-style Game
 ## About 
+This project was created in an effort to increase interest and participation in computing and technology among K-12 and undergraduate students. In our workshop, we walked students through the step-by-step process of developing a simple game in Processing to show that learning the fundamental programming concepts was not as hard as it might seem. 
 ## Description
 * Difficulty Level: Medium 
 * Target Audience: students of all ages 
