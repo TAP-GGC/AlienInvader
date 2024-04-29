@@ -52,12 +52,12 @@ The game allows up to two players who can compete against each other. One player
 ### Processing
 [Processing](https://processing.org/) is an IDE (Intergrated Development Environment) for an open-source programming language built on top of Java with the same name. Processing is an electronic sketchbook used by students, artists, designers, programmers, and other professionals to create computer graphics, digital arts, and visual designs. 
 
-<img src = "Media/Technology/Processing.png" width="400" height="200">
+<img src = "Media/Technology/Processing.png" width="200" height="200">
 
 ### Tableau 
 [Tableau](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_language=EN&utm_country=USCA&kw=tableau&adgroup=CTX-Brand-Priority-Core-E&adused=ETA&matchtype=e&placement=&d=7013y000000vYhH&cq_cmp=370186750&cq_net=s&cq_plac=&msclkid=26981524b0631c5b97b6717da3aecb8f&gclsrc=ds&gclsrc=ds) is a Business Intelligence tool used for survey data analysis. The pre-survey and post-survey are created using Tableau. 
 
-<img src = "Media/Technology/tableau.png" width="400" height="200">
+<img src = "Media/Technology/tableau.png" width="200" height="200">
 
 ## Project Setup/Installation
 ### Download Processing
