@@ -61,9 +61,7 @@ This project uses Processing and Tableau.
 
 ## Project Setup/Installation
 ### Download Processing
-1. Use the following link to install Processing on a computer: https://processing.org/download
-2. Go to your download folder and extract the ZIP file
-3. Run the processing.exe application 
+[Click here to view instructions]()
 ### With Processing installed:
 1. Dowload the repository as a ZIP
 2. Extract it to your desired location
