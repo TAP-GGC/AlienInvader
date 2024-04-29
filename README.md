@@ -15,7 +15,7 @@ This project was created in an effort to increase interest and participation in 
 
 [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) provides a collaborative environment that encourages IT students to think outside of the box and work together to develop projects and workshops to showcase the creative side of technology. 
 
-[Commercial Video]()
+[Commercial Video](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/61e43b1e-df6b-4675-b664-f80d1496142d)
 
 ## Team
 * Ryan Young
