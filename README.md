@@ -47,6 +47,9 @@ The game allows up to two players who can compete against each other. One player
 2. Tap Expo, Mar 21, 2023, Georgia Gwinnett College – To promote IT field and the TAP program to college students.
 3. Class Workshops – on Apr 10 and two on Apr 13, to promote IT field to non-IT college students.
 
+## Similar Projects
+If you're interested in more projects with Processing, 
+
 ## Technology
 
 ### Processing
