@@ -48,7 +48,7 @@ The game allows up to two players who can compete against each other. One player
 3. Class Workshops – on Apr 10 and two on Apr 13, to promote IT field to non-IT college students.
 
 ## Similar Projects
-If you're interested in another project with Processing, please check out [FruitRain](https://github.com/TAP-GGC/FruitRain).
+If you're interested in another project with Processing, please check out [Fruit Rain](https://github.com/TAP-GGC/FruitRain).
 
 ## Technology
 
