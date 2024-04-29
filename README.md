@@ -43,7 +43,7 @@ The game allows up to two players who can compete against each other. One player
 
 ## Outreach Activities
 1. CREATE Symposium, Apr 25, 2023, Georgia Gwinnett College.
-2. Atlanta Science Festival - Mar 25, 2023.
+2. [Atlanta Science Festival](https://atlantasciencefestival.org/), March 25, Piedmont Park - To promote computing and technology to children. 
 3. Tap Expo, Mar 21, 2023, Georgia Gwinnett College – To promote IT field and the TAP program to college students.
 4. Class Workshops – on Apr 10 and two on Apr 13, to promote IT field to non-IT college students.
 
