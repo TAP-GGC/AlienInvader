@@ -12,12 +12,7 @@
 
 * This TAP project is our take on the classic game Space Invaders. Using Processing, we are able to develop a multiplayer retro style arcade game with the inspiration from the Japanese 1978 fixed shooter video game. It's a fun and simple game created in an effort to help drive students towards programming and increase general interest in the field. We also planned and led several workshops to teach students about some fundamental programming concepts and basic Procesing functions that we used to create our our game. 
 
-How to play: The game allows up to two players who can compete against each other. One player could use the arrow keys to maneuver their spaceship. Another player could use the W A S D keys. The objective of the game is to shoot the moving targets, which are worth 100 points each. Whichever player reaches 1000 points first will win the match. 
-
-
 [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) provides a collaborative environment that encourages IT students to think outside of the box and work together to develop projects and workshops to showcase the creative side of technology. 
-
-OR: 
 
 [Commercial Video](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/26534338-821a-4c27-a53d-0f6e68bb28af)
 
@@ -37,6 +32,8 @@ OR:
 (From left to right: Jaehyun Na, Haniel Villarreal, Natalie Haney, and Ryan Young.) <br>
 
 ## Game Description 
+How to play: 
+The game allows up to two players who can compete against each other. One player could use the arrow keys to maneuver their spaceship. Another player could use the AWD keys. The objective of the game is to shoot the moving targets, which are worth 100 points each. Whichever player reaches 1000 points first will win the match. 
 
 ## Publications 
 1. Ryan Young, Natalie Haney, Haniel Villarreal, Jaehyun Na, Wei Jin, Xin Xu. "Introducing Java Programming Concepts through Making a Retro-style Game". Submitted to the 24th Annual Conference on Information Technology Education (SIGITE ’23), October 11–14, 2023, Marietta, GA, USA. (Not accepted)
@@ -76,12 +73,15 @@ This project uses Processing and Tableau.
 6. Follow on-screen instructions to play the game
 
 ## Short Demo Instructions
+[Click here to view demo video]()
 
 ## Workshop Instructions 
+[Click here to view workshop video]()
 
 ## Usage
-1. Press the Left arrow key (first player) or the A key (second player) to move your ship to the left.
-2. Press the Right arrow key or the D key to move to the right.
-3. Press the Up arrow key or the W key to move up.
-4. Press the Down arrow key or the S key to move down.
-5. Press 
+1. Left click to start the game. 
+2. Press the Left arrow key (first player) or A (second player) to move your ship to the left.
+3. Press the Right arrow key or D to move to the right.
+4. Press the Up arrow key or W to shoot.
+5. Press the Esc key to exit the game.
+6. Press R to restart. 
