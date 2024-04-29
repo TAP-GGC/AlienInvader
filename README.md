@@ -50,7 +50,7 @@ OR:
 1. Ryan Young, Natalie Haney, Haniel Villarreal, Jaehyun Na, Wei Jin, Xin Xu. "Introducing Java Programming Concepts through Making a Retro-style Game". Submitted to the 24th Annual Conference on Information Technology Education (SIGITE ’23), October 11–14, 2023, Marietta, GA, USA. (Not accepted)
 [Draft](/Documents/publications/Introducing%20Java%20Programming%20Concepts%20through%20Making%20a%20Retro-style%20Game.pdf)
 
-3. Natalie Haney, Ryan Young, Haniel Villarreal, Jaehyun Na, Xin Xu, Wei Jin. "Alien Invaders". Poster presentation for GGC CREATE Symposium, Apr 25, 2023, Georgia Gwinnett College.
+3. Natalie Haney, Ryan Young, Haniel Villarreal, Jaehyun Na, Xin Xu, Wei Jin. "Alien Invaders". [Poster presentation](Documents/publications/STARS_Poster.pdf) for GGC CREATE Symposium, Apr 25, 2023, Georgia Gwinnett College.
 
 
 
