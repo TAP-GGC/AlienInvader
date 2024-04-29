@@ -61,14 +61,9 @@ This project uses Processing and Tableau.
 
 ## Project Setup/Installation
 ### Download Processing
-[Click here to view instructions]()
-### With Processing installed:
-1. Dowload the repository as a ZIP
-2. Extract it to your desired location
-3. Open the code folder
-4. Open the .pde file
-5. Click the play button in the top left
-6. Follow on-screen instructions to play the game
+[Click here to view instructions](/Documents/tutorial/How%20to%20download%20Processing.md)
+### How to play the game
+
 
 ## Short Demo Instructions
 [Click here to view demo video]()
