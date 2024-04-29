@@ -48,7 +48,7 @@ The game allows up to two players who can compete against each other. One player
 4. Class Workshops – on Apr 10 and two on Apr 13, to promote IT field to non-IT college students.
 
 ## Technology
-This project uses Processing and Tableau. 
+
 ### 1. Processing
 [Processing](https://processing.org/) is an IDE (Intergrated Development Environment) for an open-source programming language built on top of Java with the same name. Processing is an electronic sketchbook used by students, artists, designers, programmers, and other professionals to create computer graphics, digital arts, and visual designs. 
 
