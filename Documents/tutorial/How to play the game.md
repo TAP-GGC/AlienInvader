@@ -5,4 +5,4 @@
 
 <img src="/Media/import%20images.png" width="400" height="200">
 
-6. Click the PLay button in the top left corner. 
+6. Click the Play button in the top left corner. 
