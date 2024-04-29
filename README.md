@@ -63,6 +63,7 @@ The game allows up to two players who can compete against each other. One player
 ### Download Processing
 [Click here to view instructions](/Documents/tutorial/How%20to%20download%20Processing.md)
 ### How to play the game
+[Click here to view instructions](/Documents/tutorial/How%20to%20play%20the%20game.md)
 
 
 ## Short Demo Instructions
