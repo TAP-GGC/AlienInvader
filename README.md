@@ -1,4 +1,5 @@
 # Introducing Java Programming Concepts through Making a Retro-style Game
+## About 
 ## Description
 * Difficulty Level: Medium 
 * Target Audience: students of all ages 
@@ -16,20 +17,9 @@ How to play: The game allows up to two players who can compete against each othe
 
 [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) provides a collaborative environment that encourages IT students to think outside of the box and work together to develop projects and workshops to showcase the creative side of technology. 
 
-Commercial Video: 
-<img src = "https://github.com/TAP-GGC/AlienInvader2/assets/157164928/26534338-821a-4c27-a53d-0f6e68bb28af">
-
-
-
-
-
 OR: 
 
 [Commercial Video](https://github.com/TAP-GGC/AlienInvader2/assets/157164928/26534338-821a-4c27-a53d-0f6e68bb28af)
-
-
-
-
 
 ## Team
 * Ryan Young
@@ -43,17 +33,16 @@ OR:
 
 ## Team Photo
 
-<img src = "Media/Group Photo.jpg" width="400" height="200">
+<img src = "Media/Group Photo.png" width="400" height="200">
 (From left to right: Jaehyun Na, Haniel Villarreal, Natalie Haney, and Ryan Young.) <br>
+
+## Game Description 
 
 ## Publications 
 1. Ryan Young, Natalie Haney, Haniel Villarreal, Jaehyun Na, Wei Jin, Xin Xu. "Introducing Java Programming Concepts through Making a Retro-style Game". Submitted to the 24th Annual Conference on Information Technology Education (SIGITE ’23), October 11–14, 2023, Marietta, GA, USA. (Not accepted)
 [Draft](/Documents/publications/Introducing%20Java%20Programming%20Concepts%20through%20Making%20a%20Retro-style%20Game.pdf)
 
 3. Natalie Haney, Ryan Young, Haniel Villarreal, Jaehyun Na, Xin Xu, Wei Jin. "Alien Invaders". [Poster presentation](Documents/publications/STARS_Poster.pdf) for GGC CREATE Symposium, Apr 25, 2023, Georgia Gwinnett College.
-
-
-
 
 ## Outreach Activities
 1. CREATE Symposium, Apr 25, 2023, Georgia Gwinnett College.
@@ -89,3 +78,10 @@ This project uses Processing and Tableau.
 ## Short Demo Instructions
 
 ## Workshop Instructions 
+
+## Usage
+1. Press the Left arrow key (first player) or the A key (second player) to move your ship to the left.
+2. Press the Right arrow key or the D key to move to the right.
+3. Press the Up arrow key or the W key to move up.
+4. Press the Down arrow key or the S key to move down.
+5. Press 
